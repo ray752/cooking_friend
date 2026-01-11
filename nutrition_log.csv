@@ -1,7 +1,8 @@
 Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Omega3_g,Calcium_mg,Iron_mg,Notes
 2025-01-11,11:00,Cappuccino,5,3,9,0,0,180,0,120,0,Morning coffee
 2025-01-11,14:00,"Omlete: 3 eggs, salami 60g, goat cheese 50g, parmigiano 30g, walnuts 20g, red bell pepper 100g; Toast 1 slice w olive oil 10ml",60,87,26,4,0,0,1.5,450,4,"Lunch - loaded omlete w toast, cucumber"
-2025-01-11,15:00,"Blueberries 400g, prosciutto 40g, Italian mixed cheese 50g, potato chips 30g, banana 120g, waffles w chocolate icing 80g",33,42,126,15,0,0,0,200,2,Afternoon grazing - snacks
+2025-01-11,15:00,Blueberries 400g,5,1,58,10,0,0,0,25,0,Afternoon snack
+2025-01-11,16:00,"Prosciutto 40g, Italian mixed cheese 50g, potato chips 30g, banana 120g, waffles w chocolate icing 80g",31,46,88,5,0,0,0,150,2,More afternoon grazing
 2025-01-11,17:00,"Tinga chicken tacos: chicken 350g, 3 tortillas (1 large + 2 small), avocado 100g (2/3), red bell pepper 50g, pickled onions 30g, fresh coriander",101,39,89,14,0,0,0,150,4,"Dinner - 1 large wrap + 2 small, mega full"
 2025-01-11,18:00,Raffaello chocolates 4pcs,3,16,20,0,0,0,0,30,0,Dessert
 2025-01-11,00:00,"Water: 3 glasses, Tea: 2 cups",0,0,0,0,0,1150,0,0,0,Daily hydration total
