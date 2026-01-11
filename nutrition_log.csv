@@ -1,1 +1,2 @@
-Date,Time,Description,Protein_g,Alcohol_drinks,Water_ml,Notes
+Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Omega3_g,Calcium_mg,Iron_mg,Notes
+2025-01-11,13:30,"3 eggs, salami 60g, goat cheese 35g, parmigiano 20g, walnuts 20g, white bread 2 slices, red pepper, olive oil 10ml",57,80,48,5,0,0,2,300,3,Lunch - scrambled eggs with salami and cheese
