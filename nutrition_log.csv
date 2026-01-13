@@ -1,21 +1,21 @@
 Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Omega3_g,Calcium_mg,Iron_mg,Notes
-2025-01-11,11:00,Cappuccino,5,3,9,0,0,180,0,120,0,Morning coffee
-2025-01-11,14:00,"Omlete: 3 eggs, salami 60g, goat cheese 50g, parmigiano 30g, walnuts 20g, red bell pepper 100g; Toast 1 slice w olive oil 10ml",60,87,26,4,0,0,1.5,450,4,"Lunch - loaded omlete w toast, cucumber"
-2025-01-11,15:00,Blueberries 400g,5,1,58,10,0,0,0,25,0,Afternoon snack
-2025-01-11,16:00,"Prosciutto 40g, Italian mixed cheese 50g, potato chips 30g, banana 120g, waffles w chocolate icing 80g",31,46,88,5,0,0,0,150,2,More afternoon grazing
-2025-01-11,17:00,"Tinga chicken tacos: chicken 350g, 3 tortillas (1 large + 2 small), avocado 100g (2/3), red bell pepper 50g, pickled onions 30g, fresh coriander",101,39,89,14,0,0,0,150,4,"Dinner - 1 large wrap + 2 small, mega full"
-2025-01-11,18:00,Raffaello chocolates 4pcs,3,16,20,0,0,0,0,30,0,Dessert
-2025-01-11,00:00,"Water: 3 glasses, Tea: 2 cups",0,0,0,0,0,1150,0,0,0,Daily hydration total
-2025-01-13,11:00,"Porridge: oats 90g, flax seeds 20g (2 types), sesame seeds 10g, chia seeds 10g, peanut butter 15g, dark chocolate 15g, dried cranberries 15g",25,35,90,22,0,0,2,200,4,Breakfast - seed-loaded porridge
-2025-01-13,11:30,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning coffee
-2025-01-13,12:30,"Potato cheese gratin: potatoes 350g, mixed cheeses 80g, half and half cream 80ml, red bell pepper 80g, cucumber 80g",31,38,74,6,0,0,0,600,2,Lunch - large portion potato gratin
-2025-01-13,13:00,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Afternoon coffee
-2025-01-13,14:00,Chocolate milk 250ml,8,8,26,0,0,250,0,300,0,Afternoon drink
-2025-01-13,19:20,"Beet soup: beef 180g, beets 200g, vegetables 100g (cabbage/carrot/onion), broth 350ml, sour cream 30g; Saldskābmaize 2 slices 80g",59,25,65,12,0,350,0,150,6,"Dinner - homemade beet soup w 3h beef broth"
-2025-01-13,21:00,"Buberts w cranberry sauce (2/3 portion): 2 eggs, 200ml milk, 2 tbsp semolina, 1 tbsp sugar",14,11,30,0,0,0,0,150,1,Evening dessert - whipped semolina
-2025-01-14,11:00,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g, banana 120g, apple 150g",32,45,165,33,0,0,2.5,250,5,Breakfast - bigger seed-loaded porridge w fruits
-2025-01-14,12:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
-2025-01-14,16:00,"Hummus: chickpeas 120g, tahini 30g, olive oil 20ml, garlic, paprika, sesame seeds; Bell peppers 100g, carrots 80g, crackers 30g",21,24,51,14,0,0,0,100,3,Afternoon snack - homemade hummus
-2025-01-14,17:00,"Taco sauce 230g, corn chips 97g (half bag)",10,21,80,8,0,0,0,30,1,Snack w chips
-2025-01-14,18:30,"Tinga chicken leftovers: chicken 225g, 2 tortillas (1 large + 1 small), red cabbage 60g, purple cabbage 40g, bell pepper 80g, pickled onions 30g, lime juice",68,21,70,6,0,0,0,100,3,Dinner - leftover tinga wraps
-2025-01-14,20:00,"Tea, wafer rolls w filling 8pcs, Raffaello 1pc",3,15,33,0,0,250,0,20,0,Evening tea w snacks
+2026-01-11,11:00,Cappuccino,5,3,9,0,0,180,0,120,0,Morning coffee
+2026-01-11,14:00,"Omlete: 3 eggs, salami 60g, goat cheese 50g, parmigiano 30g, walnuts 20g, red bell pepper 100g; Toast 1 slice w olive oil 10ml",60,87,26,4,0,0,1.5,450,4,"Lunch - loaded omlete w toast, cucumber"
+2026-01-11,15:00,Blueberries 400g,5,1,58,10,0,0,0,25,0,Afternoon snack
+2026-01-11,16:00,"Prosciutto 40g, Italian mixed cheese 50g, potato chips 30g, banana 120g, waffles w chocolate icing 80g",31,46,88,5,0,0,0,150,2,More afternoon grazing
+2026-01-11,17:00,"Tinga chicken tacos: chicken 350g, 3 tortillas (1 large + 2 small), avocado 100g (2/3), red bell pepper 50g, pickled onions 30g, fresh coriander",101,39,89,14,0,0,0,150,4,"Dinner - 1 large wrap + 2 small, mega full"
+2026-01-11,18:00,Raffaello chocolates 4pcs,3,16,20,0,0,0,0,30,0,Dessert
+2026-01-11,00:00,"Water: 3 glasses, Tea: 2 cups",0,0,0,0,0,1150,0,0,0,Daily hydration total
+2026-01-12,11:00,"Porridge: oats 90g, flax seeds 20g (2 types), sesame seeds 10g, chia seeds 10g, peanut butter 15g, dark chocolate 15g, dried cranberries 15g",25,35,90,22,0,0,2,200,4,Breakfast - seed-loaded porridge
+2026-01-12,11:30,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning coffee
+2026-01-12,12:30,"Potato cheese gratin: potatoes 350g, mixed cheeses 80g, half and half cream 80ml, red bell pepper 80g, cucumber 80g",31,38,74,6,0,0,0,600,2,Lunch - large portion potato gratin
+2026-01-12,13:00,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Afternoon coffee
+2026-01-12,14:00,Chocolate milk 250ml,8,8,26,0,0,250,0,300,0,Afternoon drink
+2026-01-12,19:20,"Beet soup: beef 180g, beets 200g, vegetables 100g (cabbage/carrot/onion), broth 350ml, sour cream 30g; Saldskābmaize 2 slices 80g",59,25,65,12,0,350,0,150,6,"Dinner - homemade beet soup w 3h beef broth"
+2026-01-12,21:00,"Buberts w cranberry sauce (2/3 portion): 2 eggs, 200ml milk, 2 tbsp semolina, 1 tbsp sugar",14,11,30,0,0,0,0,150,1,Evening dessert - whipped semolina
+2026-01-13,11:00,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g, banana 120g, apple 150g",32,45,165,33,0,0,2.5,250,5,Breakfast - bigger seed-loaded porridge w fruits
+2026-01-13,12:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
+2026-01-13,16:00,"Hummus: chickpeas 120g, tahini 30g, olive oil 20ml, garlic, paprika, sesame seeds; Bell peppers 100g, carrots 80g, crackers 30g",21,24,51,14,0,0,0,100,3,Afternoon snack - homemade hummus
+2026-01-13,17:00,"Taco sauce 230g, corn chips 97g (half bag)",10,21,80,8,0,0,0,30,1,Snack w chips
+2026-01-13,18:30,"Tinga chicken leftovers: chicken 225g, 2 tortillas (1 large + 1 small), red cabbage 60g, purple cabbage 40g, bell pepper 80g, pickled onions 30g, lime juice",68,21,70,6,0,0,0,100,3,Dinner - leftover tinga wraps
+2026-01-13,20:00,"Tea, wafer rolls w filling 8pcs, Raffaello 1pc",3,15,33,0,0,250,0,20,0,Evening tea w snacks
