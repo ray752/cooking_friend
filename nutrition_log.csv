@@ -21,3 +21,7 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-13,20:00,"Tea, wafer rolls w filling 8pcs, Raffaello 1pc",3,15,33,0,0,250,0,20,0,Evening tea w snacks
 2026-01-14,10:00,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g, banana 120g, apple 150g",32,45,165,33,0,0,2.5,250,5,Breakfast - seed-loaded porridge w fruits
 2026-01-14,12:00,"Beef kebab wrap: grilled beef 170g, large tortilla, cheese 30g, lettuce/onions/peppers 80g, mayo-based sauce 20g",56,30,44,4,0,0,0,200,4,Lunch - beef kebab wrap
+2026-01-14,16:00,Flavored corn chips 70g,5,25,45,3,0,0,0,20,1,Afternoon snack - chips
+2026-01-14,16:30,Croissant w jam filling 90g,6,15,45,2,0,0,0,30,1,Afternoon snack - pastry
+2026-01-14,19:00,"Tofu teriyaki 200g, white rice cooked 250g, broccoli steamed 150g, teriyaki sauce",43,17,78,8,0,0,0,150,4,Dinner - tofu teriyaki w rice and broccoli
+2026-01-14,20:00,"Hot chocolate: milk 150ml, pure chocolate 25g, sugar 20g",7,18,31,3,0,150,0,180,1,Evening drink - homemade hot chocolate
