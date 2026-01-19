@@ -41,3 +41,13 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-16,21:00,"Chicken strips breaded 4pcs, crémant half bottle 375ml, tequila shots 2, tequila cocktails 2",30,12,15,0,6.5,0,0,40,1,Out - chicken strips + alcohol
 2026-01-17,12:00,"Blini: 1.5 eggs, flour 30g, milk 100ml",15,11,27,0,0,100,0,120,1,Lunch - thin crepes
 2026-01-17,20:00,"Mixed olives 80g, baked goat cheese 225g w sweet onions 50g/cherry tomatoes 100g/walnuts 30g/olive oil 15ml/balsamic",51,98,24,3,0,0,1,500,2,Dinner - baked goat cheese w olives
+2026-01-18,10:30,"Smoothie 1.3x: banana 120g, strawberries 50g, blueberries 40g, chia 15g, syrup 10ml, avocado 50g",5,14,70,17,0,0,1,60,1,Breakfast - fruit smoothie
+2026-01-18,11:00,Cappuccino w pea milk 150ml,5,3,2,0,0,150,0,100,0,Morning cappuccino
+2026-01-18,13:30,"Thai noodle soup: rice noodles 150g, crispy chicken 100g, coconut milk broth 300ml, aromatics",37,69,64,1,0,300,0,120,2,Lunch - Thai soup
+2026-01-18,13:30,Cappuccino w regular milk 150ml,5,5,7,0,0,150,0,180,0,Lunch cappuccino
+2026-01-18,19:00,"Crispy beef hummus bowl 1.6 portions: beef mince 400g, hummus 240g, pita 1.6, cherry tomatoes 160g, cucumber 120g, pickled onion/spices/herbs/sesame/olive oil",132,95,105,16,0,0,0,450,6,Dinner - harissa beef hummus bowl
+2026-01-20,10:00,"Large cappuccino 250ml, croissant 70g",14,20,47,2,0,250,0,300,1,Breakfast - cappuccino w croissant
+2026-01-20,11:30,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, sunflower seeds 15g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g",31,45,119,27,0,0,2.5,250,5,Breakfast - porridge usual
+2026-01-20,11:30,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
+2026-01-20,13:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
+2026-01-20,16:00,"Small apple 100g, small banana 80g",1,0,31,4,0,0,0,10,0,Afternoon fruit snack
