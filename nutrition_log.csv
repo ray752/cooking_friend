@@ -45,7 +45,7 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-18,11:00,Cappuccino w pea milk 150ml,5,3,2,0,0,150,0,100,0,Morning cappuccino
 2026-01-18,13:30,"Thai noodle soup: rice noodles 150g, crispy chicken 100g, coconut milk broth 300ml, aromatics",37,69,64,1,0,300,0,120,2,Lunch - Thai soup
 2026-01-18,13:30,Cappuccino w regular milk 150ml,5,5,7,0,0,150,0,180,0,Lunch cappuccino
-2026-01-18,19:00,"Crispy beef hummus bowl 1.6 portions: beef mince 400g, hummus 240g, pita 1.6, cherry tomatoes 160g, cucumber 120g, pickled onion/spices/herbs/sesame/olive oil",132,95,105,16,0,0,0,450,6,Dinner - harissa beef hummus bowl
+2026-01-18,19:00,"Crispy beef hummus bowl 1.6 portions: beef mince 400g, hummus 240g, pita 1.6, cherry tomatoes 160g, cucumber 120g, pickled onion/spices/herbs/sesame/olive oil; Red wine small glass 100ml",132,95,105,16,0.67,100,0,450,6,Dinner - harissa beef hummus bowl w wine
 2026-01-20,10:00,"Large cappuccino 250ml, croissant 70g",14,20,47,2,0,250,0,300,1,Breakfast - cappuccino w croissant
 2026-01-20,11:30,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, sunflower seeds 15g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g",31,45,119,27,0,0,2.5,250,5,Breakfast - porridge usual
 2026-01-20,11:30,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
