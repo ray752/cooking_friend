@@ -6,32 +6,32 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-11,17:00,"Tinga chicken tacos: chicken 350g, 3 tortillas (1 large + 2 small), avocado 100g (2/3), red bell pepper 50g, pickled onions 30g, fresh coriander",101,39,89,14,0,0,0,150,4,"Dinner - 1 large wrap + 2 small, mega full"
 2026-01-11,18:00,Raffaello chocolates 4pcs,3,16,20,0,0,0,0,30,0,Dessert
 2026-01-11,00:00,"Water: 3 glasses, Tea: 2 cups",0,0,0,0,0,1150,0,0,0,Daily hydration total
-2026-01-12,11:00,"Porridge: oats 90g, flax seeds 20g (2 types), sesame seeds 10g, chia seeds 10g, peanut butter 15g, dark chocolate 15g, dried cranberries 15g",25,35,90,22,0,0,2,200,4,Breakfast - seed-loaded porridge
+2026-01-12,11:00,"Porridge half-cup: oats 34g, flax 8g, sesame 4g, chia 4g, peanut butter 6g, dark chocolate 6g, cranberries 6g",10,14,37,9,0,0,0.8,80,2,Breakfast - smaller portion no sunflower
 2026-01-12,11:30,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning coffee
 2026-01-12,12:30,"Potato cheese gratin: potatoes 350g, mixed cheeses 80g, half and half cream 80ml, red bell pepper 80g, cucumber 80g",31,38,74,6,0,0,0,600,2,Lunch - large portion potato gratin
 2026-01-12,13:00,Coffee w powdered milk 10g,3,1,5,0,0,250,0,100,0,Afternoon coffee
 2026-01-12,14:00,Chocolate milk 250ml,8,8,26,0,0,250,0,300,0,Afternoon drink
 2026-01-12,19:20,"Beet soup: beef 180g, beets 200g, vegetables 100g (cabbage/carrot/onion), broth 350ml, sour cream 30g; Saldskābmaize 2 slices 80g",59,25,65,12,0,350,0,150,6,"Dinner - homemade beet soup w 3h beef broth"
 2026-01-12,21:00,"Buberts w cranberry sauce (2/3 portion): 2 eggs, 200ml milk, 2 tbsp semolina, 1 tbsp sugar",14,11,30,0,0,0,0,150,1,Evening dessert - whipped semolina
-2026-01-13,11:00,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g, banana 120g, apple 150g",32,45,165,33,0,0,2.5,250,5,Breakfast - bigger seed-loaded porridge w fruits
+2026-01-13,11:00,"Porridge half-cup w fruits: oats 45g, flax 10g, sesame 5g, chia 5g, peanut butter 8g, dark chocolate 8g, cranberries 8g, banana 120g, apple 150g",14,19,89,14,0,0,1,110,2,Breakfast w fruits no sunflower
 2026-01-13,12:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
 2026-01-13,16:00,"Hummus: chickpeas 120g, tahini 30g, olive oil 20ml, garlic, paprika, sesame seeds; Bell peppers 100g, carrots 80g, crackers 30g",21,24,51,14,0,0,0,100,3,Afternoon snack - homemade hummus
 2026-01-13,17:00,"Taco sauce 230g, corn chips 97g (half bag)",10,21,80,8,0,0,0,30,1,Snack w chips
 2026-01-13,18:30,"Tinga chicken leftovers: chicken 225g, 2 tortillas (1 large + 1 small), red cabbage 60g, purple cabbage 40g, bell pepper 80g, pickled onions 30g, lime juice",68,21,70,6,0,0,0,100,3,Dinner - leftover tinga wraps
 2026-01-13,20:00,"Tea, wafer rolls w filling 8pcs, Raffaello 1pc",3,15,33,0,0,250,0,20,0,Evening tea w snacks
-2026-01-14,10:00,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g, banana 120g, apple 150g",32,45,165,33,0,0,2.5,250,5,Breakfast - seed-loaded porridge w fruits
+2026-01-14,10:00,"Porridge half-cup w fruits: oats 45g, flax 10g, sesame 5g, chia 5g, peanut butter 8g, dark chocolate 8g, cranberries 8g, banana 120g, apple 150g",14,19,89,14,0,0,1,110,2,Breakfast w fruits no sunflower
 2026-01-14,12:00,"Beef kebab wrap: grilled beef 170g, large tortilla, cheese 30g, lettuce/onions/peppers 80g, mayo-based sauce 20g",56,30,44,4,0,0,0,200,4,Lunch - beef kebab wrap
 2026-01-14,16:00,Flavored corn chips 70g,5,25,45,3,0,0,0,20,1,Afternoon snack - chips
 2026-01-14,16:30,Croissant w jam filling 90g,6,15,45,2,0,0,0,30,1,Afternoon snack - pastry
 2026-01-14,19:00,"Tofu teriyaki 200g, white rice cooked 250g, broccoli steamed 150g, teriyaki sauce",43,17,78,8,0,0,0,150,4,Dinner - tofu teriyaki w rice and broccoli
 2026-01-14,20:00,"Hot chocolate: milk 150ml, pure chocolate 25g, sugar 20g",7,18,31,3,0,150,0,180,1,Evening drink - homemade hot chocolate
-2026-01-15,10:40,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, sunflower seeds 15g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g",31,45,119,27,0,0,2.5,250,5,Breakfast - porridge w sunflower seeds (no fruits)
+2026-01-15,10:40,"Porridge half-cup: oats 45g, flax 10g, sesame 5g, chia 5g, sunflower 6g, peanut butter 8g, dark chocolate 8g, cranberries 8g",13,18,48,11,0,0,1,100,2,Breakfast - no fruits w sunflower
 2026-01-15,12:00,"Small apple 80g, small banana 80g",1,0,31,4,0,0,0,10,0,Fruit snack
 2026-01-15,12:30,"Borsch: beef 100g, beets 150g, vegetables 100g, broth 300ml, sour cream 30g; Saldskābmaize 2 slices 60g",36,12,49,10,0,300,0,180,5,Lunch - borsch w dark bread
 2026-01-15,17:30,"Prosciutto 40g, saldskābmaize w nuts & fruit 1 slice 50g",14,8,22,4,0,0,0,30,1,Afternoon snack
 2026-01-15,19:30,"Beef steak 250g, roasted potatoes 300g w olive oil, cherry tomatoes 200g, sauce (stock/half&half/wine/mushrooms 80g/shallots/garlic)",80,32,71,8,0,0,0,120,4,Dinner - steak w roasted vegetables
 2026-01-15,21:00,"Tea, wafer rolls 3pcs 20g",1,6,12,0,0,250,0,10,0,Evening tea w snack
-2026-01-16,11:00,"Porridge: oats 100g, flax seeds 20g, sesame seeds 10g, chia seeds 10g, sunflower seeds 15g, peanut butter 15g, dark chocolate 15g, dried cranberries 15g",29,44,99,23,0,0,2,220,4,Breakfast - smaller porridge w sunflower seeds
+2026-01-16,11:00,"Porridge smaller: oats 38g, flax 8g, sesame 4g, chia 4g, sunflower 6g, peanut butter 6g, dark chocolate 6g, cranberries 6g",12,18,40,9,0,0,0.8,90,2,Breakfast - smaller portion w sunflower
 2026-01-16,12:00,"Small apple 100g, small banana 80g",1,0,31,4,0,0,0,10,0,Fruit snack
 2026-01-16,12:30,"Borsch: beef 80g, beets 150g, vegetables 100g, broth 300ml, sour cream 30g; Saldskābmaize 2 slices 60g",31,11,49,10,0,300,0,180,4,Lunch - borsch w dark bread
 2026-01-16,14:00,Cappuccino large (milk 250ml),8,8,12,0,0,250,0,300,0,Afternoon cappuccino
@@ -47,17 +47,17 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-18,13:30,Cappuccino w regular milk 150ml,5,5,7,0,0,150,0,180,0,Lunch cappuccino
 2026-01-18,19:00,"Crispy beef hummus bowl 1.6 portions: beef mince 400g, hummus 240g, pita 1.6, cherry tomatoes 160g, cucumber 120g, pickled onion/spices/herbs/sesame/olive oil; Red wine small glass 100ml",132,95,105,16,0.67,100,0,450,6,Dinner - harissa beef hummus bowl w wine
 2026-01-20,10:00,"Large cappuccino 250ml, croissant 70g",14,20,47,2,0,250,0,300,1,Breakfast - cappuccino w croissant
-2026-01-20,11:30,"Porridge: oats 120g, flax seeds 25g, sesame seeds 12g, chia seeds 12g, sunflower seeds 15g, peanut butter 20g, dark chocolate 20g, dried cranberries 20g",31,45,119,27,0,0,2.5,250,5,Breakfast - porridge usual
+2026-01-20,11:30,"Porridge half-cup: oats 45g, flax 10g, sesame 5g, chia 5g, sunflower 6g, peanut butter 8g, dark chocolate 8g, cranberries 8g",13,18,48,11,0,0,1,100,2,Breakfast - regular portion w sunflower
 2026-01-20,11:30,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
 2026-01-20,13:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
 2026-01-20,16:00,"Small apple 100g, small banana 80g",1,0,31,4,0,0,0,10,0,Afternoon fruit snack
 2026-01-20,18:00,Potato chips 2 handfuls 60g,4,20,32,2,0,0,0,20,1,Evening snack - chips
-2026-01-21,10:30,"Porridge usual half-cup: oats 45g, flax 10g, sesame 5g, chia 5g, sunflower 6g, peanut butter 8g, dark chocolate 8g, cranberries 8g",13,18,48,11,0,0,1,100,2,Breakfast - regular portion
+2026-01-21,10:30,"Porridge half-cup: oats 45g, flax 10g, sesame 5g, chia 5g, sunflower 6g, peanut butter 8g, dark chocolate 8g, cranberries 8g",13,18,48,11,0,0,1,100,2,Breakfast - regular portion
 2026-01-21,11:00,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
 2026-01-21,13:00,"Borsch: beef 20g, beets 150g, vegetables 100g, broth 350ml, sour cream 30g; Saldskābmaize 2 slices 60g",16,7,46,10,0,300,0,180,3,Lunch - borsch w minimal beef
 2026-01-21,18:00,"Ground beef 120g crispy, roasted potatoes 250g, cherry tomatoes 80g, cucumbers 100g (2 plates)",37,14,56,6,0,0,0,70,3,Dinner - crispy beef w vegetables
 2026-01-21,19:00,"Cheese 70g, mixed olives 60g, crisps 50g, champagne 150ml",21,44,31,2,1,150,0,490,1,Evening snacks w champagne
 2026-01-21,20:00,Chicken fajita wrap 1,35,15,40,3,0,0,0,80,2,Evening wrap
 2026-01-22,10:00,Large cappuccino w milk 250ml,8,8,12,0,0,250,0,300,0,Morning cappuccino
-2026-01-22,12:00,"Porridge larger 2/3-cup: oats 60g, flax 13g, sesame 7g, chia 7g, sunflower 8g, peanut butter 11g, dark chocolate 11g, cranberries 11g, macadamia nuts 2",17,27,68,15,0,0,1,130,3,Breakfast - bigger portion w macadamia
+2026-01-22,12:00,"Porridge 2/3-cup: oats 60g, flax 13g, sesame 7g, chia 7g, sunflower 8g, peanut butter 11g, dark chocolate 11g, cranberries 11g, macadamia nuts 2",17,27,68,15,0,0,1,130,3,Breakfast - bigger portion w macadamia
 2026-01-22,13:30,Pelmeņi 225g,9,5,63,2,0,0,0,20,1,Lunch - dumplings
