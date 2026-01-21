@@ -51,3 +51,13 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-20,11:30,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
 2026-01-20,13:00,"Pork schnitzel breaded 200g, potatoes 300g, ketchup 30g",51,21,73,5,0,0,0,30,3,Lunch - pork karbonāde
 2026-01-20,16:00,"Small apple 100g, small banana 80g",1,0,31,4,0,0,0,10,0,Afternoon fruit snack
+2026-01-20,18:00,Potato chips 2 handfuls 60g,4,20,32,2,0,0,0,20,1,Evening snack - chips
+2026-01-21,10:30,"Porridge usual half-cup: oats 45g, flax 10g, sesame 5g, chia 5g, sunflower 6g, peanut butter 8g, dark chocolate 8g, cranberries 8g",13,18,48,11,0,0,1,100,2,Breakfast - regular portion
+2026-01-21,11:00,Cappuccino w powdered milk 10g,3,1,5,0,0,250,0,100,0,Morning cappuccino
+2026-01-21,13:00,"Borsch: beef 20g, beets 150g, vegetables 100g, broth 350ml, sour cream 30g; Saldskābmaize 2 slices 60g",16,7,46,10,0,300,0,180,3,Lunch - borsch w minimal beef
+2026-01-21,18:00,"Ground beef 120g crispy, roasted potatoes 250g, cherry tomatoes 80g, cucumbers 100g (2 plates)",37,14,56,6,0,0,0,70,3,Dinner - crispy beef w vegetables
+2026-01-21,19:00,"Cheese 70g, mixed olives 60g, crisps 50g, champagne 150ml",21,44,31,2,1,150,0,490,1,Evening snacks w champagne
+2026-01-21,20:00,Chicken fajita wrap 1,35,15,40,3,0,0,0,80,2,Evening wrap
+2026-01-22,10:00,Large cappuccino w milk 250ml,8,8,12,0,0,250,0,300,0,Morning cappuccino
+2026-01-22,12:00,"Porridge larger 2/3-cup: oats 60g, flax 13g, sesame 7g, chia 7g, sunflower 8g, peanut butter 11g, dark chocolate 11g, cranberries 11g, macadamia nuts 2",17,27,68,15,0,0,1,130,3,Breakfast - bigger portion w macadamia
+2026-01-22,13:30,Pelmeņi 225g,9,5,63,2,0,0,0,20,1,Lunch - dumplings
