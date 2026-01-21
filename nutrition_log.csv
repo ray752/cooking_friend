@@ -36,7 +36,7 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-16,12:30,"Borsch: beef 80g, beets 150g, vegetables 100g, broth 300ml, sour cream 30g; Saldskābmaize 2 slices 60g",31,11,49,10,0,300,0,180,4,Lunch - borsch w dark bread
 2026-01-16,14:00,Cappuccino large (milk 250ml),8,8,12,0,0,250,0,300,0,Afternoon cappuccino
 2026-01-16,15:00,Cheese slices 50g,12,15,1,0,0,0,0,350,0,Cheese snack
-2026-01-16,16:00,Pelmeņi 220g,9,5,62,2,0,0,0,20,1,Afternoon snack - dumplings
+2026-01-16,16:00,Chicken pelmeņi 220g (60% meat - 11g protein per 100g),24,5,62,2,0,0,0,20,1,Afternoon snack - high protein dumplings
 2026-01-16,19:00,"Roasted potatoes 250g w spices, chicken breast 125g, pickled red onions 30g",36,5,45,4,0,0,0,30,2,Dinner - chicken w roasted potatoes
 2026-01-16,21:00,"Chicken strips breaded 4pcs, crémant half bottle 375ml, tequila shots 2, tequila cocktails 2",30,12,15,0,6.5,0,0,40,1,Out - chicken strips + alcohol
 2026-01-17,12:00,"Blini: 1.5 eggs, flour 30g, milk 100ml",15,11,27,0,0,100,0,120,1,Lunch - thin crepes
@@ -60,4 +60,6 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-21,20:00,Chicken fajita wrap 1,35,15,40,3,0,0,0,80,2,Evening wrap
 2026-01-22,10:00,Large cappuccino w milk 250ml,8,8,12,0,0,250,0,300,0,Morning cappuccino
 2026-01-22,12:00,"Porridge 2/3-cup: oats 60g, flax 13g, sesame 7g, chia 7g, sunflower 8g, peanut butter 11g, dark chocolate 11g, cranberries 11g, macadamia nuts 2",17,27,68,15,0,0,1,130,3,Breakfast - bigger portion w macadamia
-2026-01-22,13:30,Pelmeņi 225g,9,5,63,2,0,0,0,20,1,Lunch - dumplings
+2026-01-22,13:30,Chicken pelmeņi 225g (60% meat - 11g protein per 100g),25,5,63,2,0,0,0,20,1,Lunch - high protein dumplings
+2026-01-22,18:00,Protein cookie 50g,10,10,13,1,0,0,0,40,1,Afternoon snack - protein cookie
+2026-01-22,19:00,"Peking beef w crispy rice & eggs: ground beef 200g, rice 275g cooked, eggs 2, gochujang sauce, green onions, cucumber",74,69,88,1,0,0,0,150,4,Dinner - Peking-style beef bowl
