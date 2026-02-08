@@ -82,4 +82,72 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-01-25,14:00,"Lunch plate: grilled chicken 120g, beef cutlet 150g, fried potatoes 200g, mushroom onion sauce, pickled cucumber 80g",75,35,48,3,0,0,0,80,5,Lunch - chicken and beef w potatoes
 2026-01-25,20:00,"Mixed olives 100g, crémant 2 glasses 300ml",2,15,3,3,2,0,0,60,1,Evening - olives w wine
 2026-01-26,11:00,"Omelette: eggs 3, cheese 30g, potatoes 120g baked, onion 60g, garlic 5g, cherry tomatoes 80g, oil 15ml",32,44,37,4,0,0,0,250,2,Breakfast - omelette w vegetables
-2026-01-26,16:30,"Blueberries 400g, Panna cotta 1 ramekin, Borsch w beef 100g/beets 200g/vegetables 120g/broth 400ml/sour cream 30g; Saldskābmaize 2 slices 60g",45,59,101,17,0,400
+2026-01-26,16:30,"Blueberries 400g, Panna cotta 1 ramekin, Borsch w beef 100g/beets 200g/vegetables 120g/broth 400ml/sour cream 30g; Saldskābmaize 2 slices 60g",45,59,101,17,0,400,0,300,6,Afternoon - snacks and borsch
+2026-01-26,18:00,"Borsch w beef 100g/beets 200g/vegetables 120g/broth 400ml/sour cream 30g; Saldskābmaize 2 slices 60g",38,15,53,11,0,400,0,200,5,Dinner - borsch w bread
+2026-01-26,19:30,Orange-cardamom amaretti cookies 4,13,25,28,5,0,0,0,40,1,Evening cookies
+2026-01-27,10:30,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-01-27,12:00,"Lunch: pork schnitzel 120g, chicken cutlet 100g, potatoes 100g, coleslaw 80g, ketchup",58,43,66,6,0,0,0,100,3,Lunch - double cutlets
+2026-01-27,16:00,"Smoothie: avocado 150g, banana 80g, chia 20g, strawberries 30g, blueberries 30g, syrup 10ml",7,28,49,21,0,0,1.2,80,2,Afternoon smoothie
+2026-01-27,17:30,"Rice noodles w sweet sour sauce: chicken 250g, noodles 200g, sauce, sesame",69,14,76,1,0,0,0,100,3,Dinner - Asian noodles
+2026-01-28,10:30,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-01-28,11:00,"Croissant 70g, Cappuccino 180ml",8,21,47,1,0,180,0,200,0,Morning - croissant and coffee
+2026-01-28,12:30,"Beef pancakes 4 pieces: beef 60g, batter 55g",19,8,20,1,0,0,0,30,2,Lunch - beef pancakes
+2026-01-28,13:00,Orange-cardamom amaretti cookies 2,6,12,14,2,0,0,0,20,0,Afternoon cookies
+2026-01-28,15:00,"Cheese bread w pepperoni: bread 60g, cheese 30g, pepperoni 20g",17,18,31,1,0,0,0,250,1,Afternoon snack
+2026-01-28,18:00,"Spaghetti w meatballs: beef meatballs 150g, spaghetti 200g, marinara, parmigiano 25g",67,42,78,3,0,0,0,450,4,Dinner - spaghetti
+2026-01-29,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-01-29,12:00,"Spaghetti w meatballs 1 bowl: beef 75g, spaghetti 100g, marinara, parmigiano",34,15,40,2,0,0,0,200,2,Lunch - leftover spaghetti
+2026-01-29,16:00,"Cacao 20g, Orange-cardamom amaretti cookies 6",22,38,48,10,0,200,0,80,2,Afternoon - cacao and cookies
+2026-01-29,18:00,"Mozzarella/cheese 30g, beef/tuna slices 80g, toasted bread 100g in oil",40,25,50,2,0,0,0,250,2,Dinner - bread w meat and cheese
+2026-01-30,11:00,"English breakfast: eggs 2, bacon/sausage 60g, baked beans 100g, toast 60g, mushrooms/tomato",41,20,55,4,0,0,0,100,3,Breakfast
+2026-01-30,12:00,"Cappuccino 180ml, Cheesecake slice 120g",14,26,44,1,0,180,0,220,0,Coffee and dessert
+2026-01-30,13:00,Cacao 20g w water,3,2,6,4,0,200,0,30,1,Afternoon cacao
+2026-01-30,15:00,"Red Thai curry: chicken 150g, edamame 50g, red cabbage 80g, sesame, coconut sauce",49,20,15,4,0,0,0,120,3,Lunch - Thai curry
+2026-01-30,20:00,"Sushi & dumplings: salmon/shrimp 90g, rice 150g, pork dumplings 60g filling",40,8,80,1,0,0,0.5,100,2,Dinner - Asian
+2026-01-31,09:00,"Protein shake 24g, Croissant 70g, Cappuccino 180ml",32,27,56,2,0,180,0,250,1,Breakfast
+2026-01-31,11:00,Orange juice 2 glasses 400ml,3,0,42,0,0,400,0,40,0,Morning juice
+2026-01-31,13:00,"Vienna schnitzel: pork 220g, potatoes 200g, mushrooms 100g",58,26,60,4,0,0,0,100,4,Lunch - schnitzel
+2026-01-31,17:00,Champagne 1 glass 150ml,0,0,0,0,1,0,0,0,0,Aperitif
+2026-01-31,18:00,"Restaurant dinner: goat cheese salad starter 50g cheese, beef tenderloin 120g, potato gratin 150g, bread 40g, chocolate fondant dessert; Red wine 2 glasses 300ml",53,56,121,5,2,300,0,400,4,Dinner - 3 course meal
+2026-01-31,00:00,"Cocktails: 2 gin tonics, 1 negroni",0,0,0,0,3,0,0,0,0,Midnight drinks
+2026-02-01,08:00,"Protein shake 35g, Banana 120g",36,2,27,3,0,0,0,60,1,Breakfast
+2026-02-01,12:00,Cappuccino 180ml,6,6,9,0,0,180,0,200,0,Midday coffee
+2026-02-01,17:00,Plain meatballs beef 150g,38,15,0,0,0,0,0,30,3,Afternoon - meatballs
+2026-02-01,19:00,"Oysters 8 large 160g, Panna cotta 1 ramekin, Crémant 2/5 bottle 300ml",17,47,14,0,2,0,0.8,180,5,Evening - oysters and wine
+2026-02-02,12:00,"Omelette: eggs 3.5, cheese 30g, tomatoes 50g, potatoes 120g, pickled cucumber",32,22,22,2,0,0,0,280,2,Lunch - omelette
+2026-02-02,13:00,Big cappuccino 200ml,7,7,10,0,0,200,0,220,0,Afternoon coffee
+2026-02-02,20:00,"Spaghetti w meatballs: beef 120g, spaghetti 150g, marinara, parmigiano 30g pile; Panna cotta 1 ramekin",60,82,101,3,0,0,0,600,4,Dinner - pasta and dessert
+2026-02-03,10:00,Cappuccino 180ml,6,6,9,0,0,180,0,200,0,Morning coffee
+2026-02-03,12:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Lunch - porridge
+2026-02-03,13:00,"Goulash soup 2 bowls: beef 120g total, potatoes/vegetables/broth",40,15,40,5,0,600,0,100,5,Lunch - soup
+2026-02-03,19:00,"Spaghetti w meatballs: beef 100g, spaghetti 150g, marinara, parmigiano",45,25,70,3,0,0,0,450,3,Dinner - spaghetti
+2026-02-03,19:30,"Beef minced w eggplant: beef 100g, eggplant",26,8,5,2,0,0,0,50,2,Dinner - beef eggplant
+2026-02-03,20:00,"Panna cotta 1 ramekin: heavy cream 35% 125ml, sugar 10g, gelatin",3,44,14,0,0,0,0,80,0,Dessert
+2026-02-03,20:30,"Garlic bread: dark bread 2 big slices 80g, garlic butter",10,12,40,4,0,0,0,60,2,Evening - garlic bread
+2026-02-04,10:00,"Apple 120g, Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26.5,38,116,26,0,0,2,200,4,Breakfast - porridge w fruit
+2026-02-04,13:00,"Goulash soup 2 bowls: beef 120g total, potatoes/vegetables/broth",40,15,40,5,0,600,0,100,5,Lunch - soup
+2026-02-04,15:00,Large banana 120g,1,0,27,3,0,0,0,6,0,Afternoon snack
+2026-02-04,18:00,"Dark rye garlic bread 3 slices, Beef stock 300ml",16,12,60,6,0,300,0,80,3,Dinner - bread and stock
+2026-02-04,19:00,"Olives 100g, Sheep cheese 100g",22,54,4,4,0,0,0,350,1,Evening - cheese and olives
+2026-02-04,20:00,"Pizza 3/4 of 350g pack (base 10.6g protein per 100g) + extra double cheese 60g + extra salami 40g",51,56,69,3,0,0,0,850,3,Dinner - pizza
+2026-02-05,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-05,13:00,"Goulash soup 2 bowls: beef 120g total, potatoes/vegetables/broth",40,15,40,5,0,600,0,100,5,Lunch - soup
+2026-02-05,15:00,Apple 80g,0.5,0,19,2,0,0,0,5,0,Afternoon snack
+2026-02-05,17:00,"Beef stock 350ml, Sheep cheese 50g, Dark chocolate 30g, Blueberries 200g",16,33,42,11,0,350,0,250,2,Afternoon - snacks
+2026-02-05,20:00,"Quesadillas 2 plates: beef minced 250g, cheddar 120g, small wraps 2, cherry tomatoes 200g",100.5,110,80,8,0,0,0,900,6,Dinner - quesadillas overload
+2026-02-06,09:30,"Black tea w milk 50ml",2,2,2,0,0,200,0,60,0,Morning tea
+2026-02-06,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-06,14:00,"Goulash soup 1L: beef 200g, potatoes/vegetables/broth; Dark rye bread 2 slices 80g",72,30,120,16,0,1000,0,180,10,Lunch - large soup w bread
+2026-02-06,15:00,"Cacao 20g w milk 100ml",6,5,11,4,0,100,0,120,1,Afternoon cacao
+2026-02-06,20:00,"Chicken wrap: chicken chunks 100g, small wrap 40g, vegetables; Marshmallows 2",28,18,55,2,0,0,0,80,2,Dinner - wrap felt full
+2026-02-07,10:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-07,11:00,"Large cappuccino 250ml, Cheese croissant 90g",16,26,49,1,0,250,0,300,1,Morning - coffee and croissant
+2026-02-07,11:30,"Cappuccino 180ml, Plain croissant 70g",8,21,47,1,0,180,0,200,0,Second coffee and croissant
+2026-02-07,13:00,"Thai lunch combo: tom yum soup w chicken 30g, crispy chicken 80g, white rice 150g, mixed veggies",37,20,62,3,0,0,0,100,3,Lunch - Thai combo
+2026-02-07,18:00,"Half chicken breast fried 100g",25,5,0,0,0,0,0,20,1,Evening - chicken
+2026-02-07,20:00,"Assorted bites (shared 2 people): cheese 40g, breadsticks 20g, olives 30g, salami 20g, prosciutto 15g",20.5,25,30,1,0,0,0,280,2,Evening snack - shared
+2026-02-08,11:00,"Spanish omelette 2/3 portion: eggs 6, salami 60g, potatoes 150g fried, goat cheese 150g, cherry tomatoes 100g",55,72,31,3,0,0,0,600,4,Brunch - large omelette
+2026-02-08,13:00,"Cappuccino 180ml, Half cacao 10g",7.5,7,12,2,0,180,0,200,1,Afternoon - coffee and cacao
+2026-02-08,16:00,"Mandarins 4, Beef stock 500ml, Half chicken breast 100g",31,6,40,2,0,500,0,60,2,Afternoon - snacks
+2026-02-08,20:00,"Protein milk 250ml (12.5g), Olives 150g, Beer 0.44L",15.5,25,6,5,1.5,440,0,80,2,Evening - protein milk olives beer
+2026-02-08,21:00,"Baked feta 150g w honey 20g/walnuts 30g/paprika/balsamic/crisp bread 30g; Creme caramel 1/7 ramekin (500ml milk/1 egg/3 whites/sugar); Cheese sticks 1/4 batch (400g pastry/400g parmigiano)",80.8,94,89,3,0,0,0,1100,3,Evening feast - feta dessert cheese sticks
