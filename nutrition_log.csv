@@ -151,3 +151,57 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-02-08,16:00,"Mandarins 4, Beef stock 500ml, Half chicken breast 100g",31,6,40,2,0,500,0,60,2,Afternoon - snacks
 2026-02-08,20:00,"Protein milk 250ml (12.5g), Olives 150g, Beer 0.44L",15.5,25,6,5,1.5,440,0,80,2,Evening - protein milk olives beer
 2026-02-08,21:00,"Baked feta 150g w honey 20g/walnuts 30g/paprika/balsamic/crisp bread 30g; Creme caramel 1/7 ramekin (500ml milk/1 egg/3 whites/sugar); Cheese sticks 1/4 batch (400g pastry/400g parmigiano)",80.8,94,89,3,0,0,0,1100,3,Evening feast - feta dessert cheese sticks
+2026-02-09,11:00,Croissant 70g,2,15,38,1,0,0,0,30,0,Breakfast
+2026-02-09,12:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Lunch
+2026-02-09,15:00,"Smoothie: avocado 150g, banana 80g, peanut butter 16g, berries 60g, chia 20g",12,46,33,16,0,0,1.2,80,2,Afternoon smoothie
+2026-02-09,16:00,"Dinner party lunch: beef 80g, potatoes 150g, vegetables 100g",25.5,8,28,3,0,0,0,60,2,Afternoon - shared meal
+2026-02-09,18:00,"Cheese sticks 250g (puff pastry/parmigiano)",60,46,44,2,0,0,0,850,2,Evening - cheese sticks
+2026-02-09,18:00,"Beer 3 x 500ml",0,0,0,0,3,0,0,0,0,Evening - alcohol
+2026-02-09,22:00,Creme caramel 1/7 ramekin,4.8,6,15,0,0,0,0,80,0,Late dessert
+2026-02-10,10:00,Cappuccino 180ml,6,6,9,0,0,180,0,200,0,Morning coffee
+2026-02-10,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-10,12:00,Creme caramel 1/7 ramekin,4.8,6,15,0,0,0,0,80,0,Midday dessert
+2026-02-10,14:00,"Fish fingers 4 pieces 80g, broccoli 150g",32,8,20,3,0,0,0.5,80,1,Lunch - fish fingers
+2026-02-10,16:00,Apple 120g,0.5,0,19,2,0,0,0,5,0,Afternoon snack
+2026-02-10,17:00,Creme caramel 1/7 ramekin,4.8,6,15,0,0,0,0,80,0,Afternoon dessert
+2026-02-10,18:00,"Garlic bread: dark bread 2 slices 60g, garlic butter",7,9,30,3,0,0,0,45,1,Evening - garlic bread
+2026-02-10,19:00,"Full chicken roast 400g, potatoes 200g, broccoli 150g, cucumber 80g",58,20,45,5,0,0,0,100,4,Dinner - roast chicken
+2026-02-10,20:00,"Sweets/candies 20g",1,3,15,0,0,0,0,10,0,Evening - sweets
+2026-02-11,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-11,13:00,"Big chicken gyros plate: chicken 160g, fries 200g, pita 60g, vegetables/sauce 100g",44,38,120,5,0,0,0,120,3,Lunch - large gyros plate
+2026-02-11,18:00,"Garlic bread: dark bread 3 slices 90g, garlic butter",10,14,45,4,0,0,0,70,2,Evening - garlic bread
+2026-02-11,20:00,"Beef stock 350ml, beef 150g",39.5,7,0,0,0,350,0,50,3,Dinner - beef in stock
+2026-02-12,09:30,"Cappuccino 180ml, Croissant 70g",8,21,47,1,0,180,0,200,0,Breakfast
+2026-02-12,10:30,Cappuccino 180ml,6,6,9,0,0,180,0,200,0,Morning coffee
+2026-02-12,12:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Lunch
+2026-02-12,14:00,"Black bean chicken stir-fry: chicken 200g, black beans 80g, white rice 200g, broccoli 100g, carrot 50g",62,10,95,8,0,0,0,120,4,Lunch - stir-fry
+2026-02-12,15:00,Panna cotta 1/7 ramekin,3,6,2,0,0,0,0,12,0,Afternoon dessert
+2026-02-12,20:00,"Mexican tinga w wraps: chicken 150g, tortillas 2, cheddar 30g, peppers 50g",40,18,50,4,0,0,0,250,2,Dinner - tinga
+2026-02-12,20:30,Panna cotta 1/7 ramekin,3,6,2,0,0,0,0,12,0,Evening dessert
+2026-02-13,11:00,Cappuccino 250ml,8,8,12,0,0,250,0,300,0,Breakfast
+2026-02-13,12:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Lunch
+2026-02-13,13:00,"Beef pho soup: beef 30g, rice noodles 80g, broth 400ml; Breaded chicken cutlet 100g, rice noodles 100g, vegetables 100g",41.5,17,83,2,0,400,0,120,2,Lunch - bistro combo
+2026-02-13,14:00,Cappuccino 180ml,6,6,9,0,0,180,0,200,0,Afternoon coffee
+2026-02-13,16:00,"Beef stock 250ml, dark rye bread 2 slices 60g",8.5,3,30,4,0,250,0,60,2,Afternoon - stock and bread
+2026-02-13,19:00,"Banana 120g, Kārums biezpiena dessert 100g, Tinga chicken 80g, potatoes 50g",30,9,53,3,0,0,0,120,1,Dinner - leftover tinga
+2026-02-17,11:00,"Porridge 350ml bloated w macadamia: oats 90g, flax 20g, sesame 10g, chia 10g, sunflower 12g, peanut butter 16g, dark chocolate 16g, cranberries 16g, macadamia 2",26,38,98,22,0,0,2,200,4,Breakfast
+2026-02-17,12:30,"Borsch: beef 0g, beets 200g, vegetables 100g, broth 400ml, sour cream 30g; Dark rye bread 1 slice 40g",10,9,38,9,0,400,0,180,2,Lunch - borsch no meat
+2026-02-17,19:30,"Italian chicken cream sauce: chicken 200g, parmigiano 60g, heavy cream 200ml, parsley, sourdough 3 slices 90g; Chocolate 30g, mandarins 3",83,149,123,4,0,0,0,650,3,Dinner - rich cream sauce
+2026-02-19,10:00,"Large cappuccino 250ml, croissant 70g",10,21,50,1,0,250,0,300,1,Breakfast
+2026-02-19,14:00,"Banana 120g, mandarins 3, Porridge 350ml bloated w macadamia",29,38,155,26,0,0,2,200,4,Afternoon - porridge w fruit
+2026-02-19,16:30,"Chili con carne: beef mince 150g, beans 100g, cheese 30g, tortilla chips 60g",60,39,72,10,0,0,0,450,4,Afternoon - chili
+2026-02-19,21:00,"Restaurant starters: pâté 60g, fish tartare 80g, beef tartare 100g, bread 40g; Beers 3 x 500ml",52,25,40,1,3,0,0.5,100,3,Dinner - tartars and alcohol
+2026-02-21,09:00,"Breakfast buffet: croissant 70g, ham/cheese sandwich (roll 60g, ham 30g, cheese 20g), apple 150g",18.5,28,107,5,0,0,0,230,1,Breakfast - hotel buffet
+2026-02-21,11:30,"Pancakes 3 w syrup 150g",12,6,60,1,0,0,0,80,1,Morning - pancakes
+2026-02-21,14:00,"Pizza slice salami 150g",18.5,15,50,2,0,0,0,200,1,Afternoon - pizza
+2026-02-21,19:00,"Pepperoni pizza 1.5 x 300g",55.5,58,135,3,0,0,0,600,3,Dinner - 1.5 pizzas
+2026-02-22,10:00,"Skiing snacks: parmigiano 25g, Nature Valley bar 10g, Milk PRO 35g",53.25,21,23,2,0,0,0,250,1,Morning - skiing
+2026-02-22,13:00,"Croissant 70g, pancakes 2 w syrup 100g",10,19,73,1,0,0,0,110,1,Lunch - breakfast buffet
+2026-02-22,16:00,"Ham/cheese sandwich: bread 80g, ham 40g, cheese 30g",22.5,15,40,2,0,0,0,270,1,Afternoon - sandwich
+2026-02-22,19:00,"Tagliata di Cervo al Bleu d'Aoste: venison 150g, blue cheese 30g, vegetables; Ragu w pasta: beef 60g, pasta 80g, parmigiano 15g",69.5,48,55,3,0,0,0,250,3,Dinner - venison and pasta
+2026-02-22,10:00,"Breakfast: parmigiano 25g, cereal 40g, milk 150ml, pancakes 4, cappuccino 200ml, juice",40.25,26,127,2,0,350,0,510,1,Morning - hotel buffet
+2026-02-22,13:30,"Pizza capricciosa 300g, Milk PRO 35g",73.5,30,90,3,0,0,0.2,400,2,Lunch - pizza and protein
+2026-02-22,19:00,"Pappardelle w ragu: pasta 150g, beef 100g, parmigiano 30g",41.5,26,45,2,0,0,0,450,3,Dinner - pasta
+2026-02-23,10:00,"Pancakes 4 w syrup, chocolate cereal 40g",19,16,95,2,0,0,0,100,1,Breakfast - pancakes
+2026-02-23,14:00,"Meatballs 5 pieces, fries large portion",23,30,78,2,0,0,0,60,2,Lunch - meatballs fries
+2026-02-23,19:00,"Prosciutto arugula pizza 320g, ragu leftovers w pasta/parmigiano",65.5,42,80,3,0,0,0,500,3,Dinner - pizza and pasta
