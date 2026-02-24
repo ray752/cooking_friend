@@ -205,3 +205,6 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-02-24,11:00,Protein shake 35g,35,2,5,0,0,0,0,60,0,Midday - protein shake
 2026-02-24,12:00,Kellogg protein bar,12,6,18,1,0,0,0,80,1,Afternoon - protein bar
 2026-02-24,13:00,Kit Kat 2 bars 41g,3,11,27,0,0,0,0,30,0,Afternoon - chocolate
+2026-02-24,14:00,"Restaurant pasta w tomatoes 150g, parmigiano 20g; Leftover ragu pasta 80g, beef 60g, parmigiano 15g",38,18,113,3,0,0,0,550,3,Lunch - restaurant and leftovers
+2026-02-24,17:00,"Apple 120g, crisps 40g",2.5,8,39,2,0,0,0,10,0,Late snack
+2026-02-24,19:00,"Calzone pizza: dough 200g, cheese 60g, ham/salami 50g",33,30,100,2,0,0,0,400,2,Dinner - calzone
