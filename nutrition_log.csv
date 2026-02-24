@@ -198,9 +198,10 @@ Date,Time,Description,Protein_g,Fat_g,Carbs_g,Fiber_g,Alcohol_drinks,Water_ml,Om
 2026-02-22,13:00,"Breakfast buffet: croissant 70g, pancakes 2, oat flakes 20g, nuts 15g",16,27,87,2,0,0,0,140,1,Lunch - late breakfast
 2026-02-22,16:00,"Ham/cheese sandwich: bread 80g, ham 40g, cheese 30g",22.5,15,40,2,0,0,0,270,1,Afternoon - sandwich
 2026-02-22,19:00,"Tagliata di Cervo al Bleu d'Aoste: venison 150g, blue cheese 30g, vegetables; Ragu w pasta: beef 60g, pasta 80g, parmigiano 15g",69.5,48,55,3,0,0,0,250,3,Dinner - venison and pasta
-2026-02-22,10:00,"Breakfast buffet: parmigiano 25g, cereal 40g, milk 150ml, pancakes 4, cappuccino 200ml, juice, oat flakes 20g, nuts 15g",46.25,34,127,2,0,350,0,510,1,Morning - hotel buffet
-2026-02-22,13:30,"Pizza capricciosa 300g, Milk PRO 35g",73.5,30,90,3,0,0,0.2,400,2,Lunch - pizza and protein
-2026-02-22,19:00,"Pappardelle w ragu: pasta 150g, beef 100g, parmigiano 30g",41.5,26,45,2,0,0,0,450,3,Dinner - pasta
-2026-02-23,10:00,"Pancakes 4 w syrup, chocolate cereal 40g, oat flakes 20g, nuts 15g",25,24,107,2,0,0,0,120,1,Breakfast - pancakes
-2026-02-23,14:00,"Meatballs 5 pieces, fries large portion",23,30,78,2,0,0,0,60,2,Lunch - meatballs fries
-2026-02-23,19:00,"Prosciutto arugula pizza 320g, ragu leftovers w pasta/parmigiano",65.5,42,80,3,0,0,0,500,3,Dinner - pizza and pasta
+2026-02-23,10:00,"Breakfast buffet: parmigiano 25g, cereal 40g, milk 150ml, pancakes 4, cappuccino 200ml, juice, oat flakes 20g, nuts 15g",46.25,34,127,2,0,350,0,510,1,Morning - hotel buffet
+2026-02-23,13:30,"Pizza capricciosa 300g, Milk PRO 35g",73.5,30,90,3,0,0,0.2,400,2,Lunch - pizza and protein
+2026-02-23,19:00,"Pappardelle w ragu: pasta 150g, beef 100g, parmigiano 30g",41.5,26,45,2,0,0,0,450,3,Dinner - pasta
+2026-02-24,10:00,"Pancakes 4 w syrup, chocolate cereal 40g, oat flakes 20g, nuts 15g",25,24,107,2,0,0,0,120,1,Breakfast - pancakes
+2026-02-24,11:00,Protein shake 35g,35,2,5,0,0,0,0,60,0,Midday - protein shake
+2026-02-24,12:00,Kellogg protein bar,12,6,18,1,0,0,0,80,1,Afternoon - protein bar
+2026-02-24,13:00,Kit Kat 2 bars 41g,3,11,27,0,0,0,0,30,0,Afternoon - chocolate
